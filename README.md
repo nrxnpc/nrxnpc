@@ -58,8 +58,7 @@
   <ul>
     <li>Currently managing a team at <strong>Argo Tech.</strong>, delivering AI-powered applications and data analytics tools.</li>
     <li>Passionate about bridging technical expertise with clear, results-driven leadership.</li>
-    <li>Love exploring new frontiers in AI, from computer vision to NLP, and mentoring junior developers.</li>
-    <li>Outside of work, I enjoy reading about innovation and traveling to tech conferences around the world.</li>
+    <li>Love exploring new frontiers in AI, from computer vision to NLP.</li>
   </ul>
 </details>
 
@@ -67,9 +66,9 @@
   <summary><b>Key Projects</b></summary>
   <br/>
   <ul>
-    <li><a href="https://github.com/nrxnpc/ai-insights"><strong>AI Insights</strong></a>: A platform that analyzes business metrics using ML models.</li>
-    <li><a href="https://github.com/nrxnpc/mobile-launchpad"><strong>Mobile Launchpad</strong></a>: A suite of apps designed to streamline project onboarding.</li>
-    <li><a href="https://github.com/nrxnpc/vision-toolkit"><strong>Vision Toolkit</strong></a>: Computer vision modules for real-time object detection.</li>
+    <li><a href="https://github.com/nrxnpc/ai-insights"><strong>RE:SOURCE</strong></a>: A platform that analyzes business metrics using ML models.</li>
+    <li><a href="https://github.com/nrxnpc/mobile-launchpad"><strong>Universal code</strong></a>: Video analytics and incident monitoring tool.</li>
+    <li><a href="https://github.com/nrxnpc/vision-toolkit"><strong>ML Vibration Toolkit</strong></a>: ML modules for real-time analysis of machines and mechanisms with vibration sensors.</li>
   </ul>
 </details>
 
