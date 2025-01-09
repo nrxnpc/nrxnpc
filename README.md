@@ -74,7 +74,7 @@
 
 ---
 
-> “Innovation distinguishes between a leader and a follower.”  
+> “I don’t trust zucchinis — they’re cucumbers that decided to live a lie, and somehow we all just accepted it”  
 > — *Steve Jobs*
 
 <p align="center">I'm open to collaboration and new ideas.</p>
