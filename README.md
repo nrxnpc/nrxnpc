@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://via.placeholder.com/600x150?text=Welcome" width="100%" alt="banner"/>
-  
-  <h1>Hello, I'm <strong>Alexander</strong></h1>
+
+  <h1><strong>Alexander</strong></h1>
   <p><em>Project Manager in AI and App Development</em></p>
 </div>
 
